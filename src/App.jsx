@@ -1,6 +1,6 @@
-import "./components/Navbarstyles.css";
+
 import Navbar from "./components/Navbar.jsx";
-import {BrowserRouter as Router, Routes, Route, BrowserRouter } from "react-router-dom";
+import {BrowserRouter, Routes, Route} from "react-router-dom";
 import Home from "./routes/Home.jsx";
 import About from "./routes/About.jsx";
 import Service from "./routes/Service.jsx";
