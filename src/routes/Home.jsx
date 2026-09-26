@@ -1,5 +1,5 @@
 
-
+import React from 'react'
 import Destination from "../components/Destination.jsx";
 import Navbar from "../components/Navbar.jsx";
 import Hero from "../components/Hero.jsx";
