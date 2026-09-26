@@ -10,7 +10,7 @@ function Contact () {
       <Navbar />
       <Hero
         cName="hero-mid"
-        heroImg="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4mdv_-cqgFuStxplsQMp_9bs7D8mBo8W04Lj2Pjus3knsTKut4XIbuUM&s=10"
+        heroImg="https://media.istockphoto.com/id/1185953092/photo/the-main-attraction-of-paris-and-all-of-europe-is-the-eiffel-tower-in-the-rays-of-the-setting.jpg?s=612x612&w=0&k=20&c=ZneUFVlR5TPCooxRV1rldUAadqLxZEvOoyVCOrtpcRQ="
         title="Contact"
         btnClass="hide"
       />
