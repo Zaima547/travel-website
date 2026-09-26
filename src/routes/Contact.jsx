@@ -10,7 +10,7 @@ function Contact () {
       <Navbar />
       <Hero
         cName="hero-mid"
-        heroImg="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1aYuHaL1Rbg_6BFDuSTS_OStRG578hYoaWWIV3bqMOnGknX1qbA2kz20A&s=10"
+        heroImg="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTp_zRt0oE4EXdBkFBhT3SZ1QrgWmIXqr4BLudbsCZiK6Y6hKPpctKum5Q&s=10"
         title="Contact"
         btnClass="hide"
       />
