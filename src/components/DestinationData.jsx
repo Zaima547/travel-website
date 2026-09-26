@@ -1,3 +1,4 @@
+import React from "react";
 import "./DestinationStyles.css";
 import { Component } from "react";
 

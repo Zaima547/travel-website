@@ -1,3 +1,4 @@
+import React from "react";
 import DestinationData from "./DestinationData";
 import "./DestinationStyles.css";
 
